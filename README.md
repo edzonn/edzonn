@@ -2,7 +2,7 @@
 
 My name is Edizon, and I like doing automation and interested in all things like Python and Golang!
 
-- 🔭 "I’m currently working as a DevOps Engineer, focusing on automating CI/CD pipelines, managing cloud infrastructure (primarily on AWS), and enhancing system reliability and observability through tools like Kubernetes, Terraform, and Datadog. My responsibilities also include implementing security best practices, optimizing deployment workflows, and ensuring high availability and scalability of applications in production environments."
+- I’m currently working as a DevOps Engineer, focusing on automating CI/CD pipelines, managing cloud infrastructure (primarily on AWS), and enhancing system reliability and observability through tools like Kubernetes, Terraform, and Datadog. My responsibilities also include implementing security best practices, optimizing deployment workflows, and ensuring high availability and scalability of applications in production environments.
 
 <!--
 **edzonn/edzonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
