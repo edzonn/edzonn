@@ -34,7 +34,7 @@ I build and operate scalable, secure, and observable systems. I focus on automat
 | **Containers & Orchestration** | Docker, Kubernetes |
 | **Monitoring & Observability** | Datadog |
 | **Languages** | Python, Go |
-| **CI/CD** | *(add your tools, e.g. GitHub Actions, GitLab CI, Jenkins, ArgoCD)* |
+| **CI/CD** | GitHub Actions, GitLab CI, Jenkins, ArgoCD |
 
 ---
 
