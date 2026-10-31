@@ -7,7 +7,7 @@ I build and operate scalable, secure, and observable systems. I focus on automat
 
 ---
 
-## 🔧 What I Do
+## What I Do
 
 - **CI/CD Automation:** Design and maintain pipelines that make deployments fast, repeatable, and safe
 - **Cloud Infrastructure:** Provision and manage AWS environments using Infrastructure as Code
@@ -18,7 +18,7 @@ I build and operate scalable, secure, and observable systems. I focus on automat
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -38,7 +38,7 @@ I build and operate scalable, secure, and observable systems. I focus on automat
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - Automating everything that can be automated
 - Building self-service tooling for developers
@@ -47,7 +47,7 @@ I build and operate scalable, secure, and observable systems. I focus on automat
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
