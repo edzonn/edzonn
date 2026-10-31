@@ -1,5 +1,5 @@
 
-# Hi, I'm Edizon 👋
+# Hi, I'm Edizon
 
 **DevOps Engineer** | Cloud Infrastructure • CI/CD Automation • Reliability Engineering
 
